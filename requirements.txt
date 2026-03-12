@@ -3,6 +3,9 @@ pandas
 numpy
 scipy
 scikit-learn
-matplotlib
 joblib
+matplotlib
+tifffile
+scikit-image
+
 
