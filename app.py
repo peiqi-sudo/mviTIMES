@@ -224,7 +224,7 @@ if nav_selection == "🏠 首页 (Home)":
     st.markdown("### 🎬 系统操作演示与背景")
     row1_col1, row1_col2 = st.columns([1, 1])
     with row1_col1:
-        st.video("http://www.kepu.gov.cn/video/2023-07/14/content_1754348.html") # 可替换为您自己的本地视频或 YouTube 链接
+        st.video("tutorial.mp4") # 可替换为您自己的本地视频或 YouTube 链接
     with row1_col2:
         st.write("""
         微血管侵犯 (Microvascular Invasion, MVI) 是评估实体瘤预后的核心独立危险因素。传统的病理学评估往往忽略了肿瘤微环境 (TME) 中极其复杂的免疫空间异质性。
