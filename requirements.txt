@@ -7,5 +7,6 @@ joblib
 matplotlib
 tifffile
 scikit-image
+imagecodecs
 
 
