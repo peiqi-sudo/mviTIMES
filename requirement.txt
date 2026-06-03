@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+matplotlib
+tifffile
+scikit-image
